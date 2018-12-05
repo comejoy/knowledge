@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5db8824-a5e7-4e8a-8dbe-3474fbb0c5ed" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/javascript/sync/js的async与await.md" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/sync/js的async与await.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/sync/js使用promise.md" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/sync/js使用promise.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,8 +19,8 @@
         <entry file="file://$PROJECT_DIR$/javascript/sync/js的async与await.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="225">
-                <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
               </first_editor>
               <second_editor />
             </state>
@@ -31,10 +31,24 @@
         <entry file="file://$PROJECT_DIR$/javascript/sync/js使用promise.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1050">
-                <caret line="70" column="10" lean-forward="true" selection-start-line="70" selection-start-column="10" selection-end-line="70" selection-end-column="10" />
+              <first_editor relative-caret-position="190">
+                <caret line="78" column="25" lean-forward="true" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="25" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/layui.dtree帮助手册_files/async.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/layui_ext/dtree/dtree.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="1909" column="16" selection-start-line="1909" selection-start-column="16" selection-end-line="1909" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -49,13 +63,14 @@
       <list>
         <option value="$PROJECT_DIR$/javascript/sync/js的async与await" />
         <option value="$PROJECT_DIR$/javascript/sync/js使用promise" />
-        <option value="$PROJECT_DIR$/javascript/sync/js使用promise.md" />
         <option value="$PROJECT_DIR$/javascript/sync/js的async与await.md" />
+        <option value="$PROJECT_DIR$/javascript/sync/js使用promise.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="205" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-13" />
+    <option name="y" value="-876" />
     <option name="width" value="1440" />
     <option name="height" value="829" />
   </component>
@@ -116,15 +131,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543906936195</updated>
-      <workItem from="1543906938669" duration="2576000" />
+      <workItem from="1543906938669" duration="3835000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2576000" />
+    <option name="totallyTimeSpent" value="3835000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1440" height="829" extended-state="6" />
+    <frame x="-13" y="-876" width="1440" height="829" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -153,8 +168,8 @@
     <entry file="file://$PROJECT_DIR$/javascript/sync/js使用promise.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1050">
-            <caret line="70" column="10" lean-forward="true" selection-start-line="70" selection-start-column="10" selection-end-line="70" selection-end-column="10" />
+          <first_editor relative-caret-position="190">
+            <caret line="78" column="25" lean-forward="true" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="25" />
           </first_editor>
           <second_editor />
         </state>
@@ -165,11 +180,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Downloads/layui.dtree帮助手册_files/async.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/layui_ext/dtree/dtree.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="1909" column="16" selection-start-line="1909" selection-start-column="16" selection-end-line="1909" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/javascript/sync/js的async与await.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="225">
-            <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
           </first_editor>
           <second_editor />
         </state>

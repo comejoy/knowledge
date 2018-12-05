@@ -87,3 +87,4 @@
 
 ## reference
 [理解javascript的async/await](https://segmentfault.com/a/1190000007535316)
+[async/await与Promise区别](https://www.jianshu.com/p/ffa5cbe9ab29)
